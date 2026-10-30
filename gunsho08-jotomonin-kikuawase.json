@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jotomonin-kikuawase",
  "yomi": "じょうとうもんいんきくあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（菊合）",
+  "era": "長元5年（1032）10月18日",
+  "author": "上東門院",
+  "desc": "上東門院彰子のもとで催された菊合。白菊・八重菊や霜に移ろう色を詠み、伊勢大輔・弁乳母・小弁らの女房が左右に分かれる。"
+ },
  "editions": [
   {
    "pid": "1879502",
